@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "comma-dangle": ["error", "never"],
+    "jsx-a11y/href-no-hash": "off",
+    "class-methods-use-this": "off"
+  },
+  "globals": {
+    "window": true,
+    "document": true
+  }
+}

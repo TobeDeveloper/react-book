@@ -1,0 +1,25 @@
+# project
+.env
+node_modules/
+node/
+bower_components/
+npm-debug.log
+tmp
+build
+testem.log
+test/coverage
+coverage.json
+test-results.xml
+eslint-checkstyle.xml
+
+# ide
+.vscode
+.idea
+.tern-project
+*.sublime-project
+*.sublime-workspace
+
+# system
+.DS_Store
+.AppleDouble
+.LSOverride
