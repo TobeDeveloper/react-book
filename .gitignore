@@ -13,8 +13,8 @@ test-results.xml
 eslint-checkstyle.xml
 
 # ide
-.vscode
-.idea
+.vscode/
+.idea/
 .tern-project
 *.sublime-project
 *.sublime-workspace
